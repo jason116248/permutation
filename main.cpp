@@ -1,5 +1,4 @@
 #include <iostream>
-#include <queue>
 #include <vector>
 using namespace std;
 
@@ -30,6 +29,7 @@ void show(string temp)
 
     }
 }
+
 void perm(char *List,int i,int n)
 {
     string tempStr;
